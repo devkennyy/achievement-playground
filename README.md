@@ -73,6 +73,9 @@ Co-authored-by: 105208736+devkennyy@users.noreply.github.com"
 - Coauthored in 24 merged pull requests
 - Coauthored in 48 merged pull requests
 
+## 🤝 Contributing
+Is there a missing achivement or missing steps a user should take? Create a pull request and help us out!
+
 ## 🤔 Questions
 If you have any questions, reach out to me at `devkenny@outlook.com`
 
