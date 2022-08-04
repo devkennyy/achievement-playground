@@ -60,7 +60,7 @@ git clone https://github.com/yourUsername/achievement-playground.git
 $ git commit -m "Made a mess in the playground
 > 
 >
-Co-authored-by: 105208736+devkennyy@users.noreply.github.com"
+Co-authored-by: devkennyy <105208736+devkennyy@users.noreply.github.com>"
 ```
 
 > **Note**
