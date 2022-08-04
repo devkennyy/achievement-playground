@@ -7,13 +7,19 @@ Table of Contents
 - [Quickdraw](#-quickdraw)
 - [Pair Extraordinaire](#-pair-extraordinaire)
 
+## 💫 Getting Started
+1. Fork the repository
+2. Clone it to your local machine
+```shell
+git clone https://github.com/yourUsername/achievement-playground.git
+```
+> **Note**
+> Make sure you replace `yourUsername` with your username. 
+
 ## 📜 Guides
 ### 🦈 Pull Shark
 - Modify [playground.md](playground.md) 
 - Create a pull request
-
-> **Note**
-> Your pull request will be merged by a maintianer. 
 
 #### Tiers:
 - 2 pull requests merged
