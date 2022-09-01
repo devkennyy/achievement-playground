@@ -52,6 +52,16 @@ git clone https://github.com/yourUsername/achievement-playground.git
 
 ---
 
+### 😎 YOLO
+- Submit a pull request
+- Merge the pull request without reviewing
+
+---
+
+### 💛 Public Sponsor
+- Sponsor a user or organization
+- ---
+
 ### 🍏 Pair Extraordinaire
 #### Text Editor
 - Modify [playground.md](playground.md)
